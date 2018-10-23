@@ -9,7 +9,7 @@ This is a skeleton project structure that sets up a React application for develo
 
 Incliuse source-map for debugging.
 
---> Clone the repository
---> Run npm install to install dependencies
---> Run npm start to start the server. You should see Hi There! message in your browser if everything is succesful.
+1. Clone the repository
+2. Run npm install to install dependencies
+3. Run npm start to start the server. You should see Hi There! message in your browser if everything is succesful.
 
